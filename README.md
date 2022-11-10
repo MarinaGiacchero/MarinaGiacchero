@@ -13,7 +13,7 @@ Disponho de conhecimentos em programação web (html, css), linguagens de progra
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/8a9a6ead7fca63d2b5903a4018fcea2e/ad3824f1f1e16211-6c/s540x810/584ada47d7544f28f6ef1f1179a3616d130f3cc2.gifv">
   <a href="https://drive.google.com/drive/folders/1v4nzffa8tXhblsMmOQ8xPzqV3S8C3WUY" target="_blank"><img align="center" alt="Mah-drive" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg"></a>
 </div>
   
