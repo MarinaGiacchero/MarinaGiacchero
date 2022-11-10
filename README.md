@@ -1,8 +1,8 @@
 
 ## 👋 Olá, sou a Marina Giacchero, desenvolvedora de software e data science!
 Disponho de conhecimentos em programação web (html, css), linguagens de programação (C, C++, java, javascript e python), banco de dados e análise e manipulação de softwares, inclusive, do pacote Office. Ademais, possuo habilidades de comunicação e escrita, atenuadores para trabalhos em equipe, como também ânsia e facilidade de aprendizado. Afora, o inglês intermediário e a curiosidade pelo TI, dando ênfase ao software.
-##  Porfólio no Google Drive
-  <a href="https://drive.google.com/drive/folders/1v4nzffa8tXhblsMmOQ8xPzqV3S8C3WUY" target="_blank"><img align="center" alt="Mah-drive" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg"></a>
+##  Porfólio e currículo no Google Drive
+  <a href="https://drive.google.com/drive/folders/1v4nzffa8tXhblsMmOQ8xPzqV3S8C3WUY" target="_blank"><img align="right" alt="Mah-drive" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg"></a>
 <div align="center">
   <a href="https://github.com/marinagiacchero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marinagiacchero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
