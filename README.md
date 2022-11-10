@@ -1,5 +1,5 @@
 
-## Oiii eu sou a Marina Giacchero, desenvolvedora de software e data science!
+## 👋 Olá, sou a Marina Giacchero, desenvolvedora de software e data science!
 Disponho de conhecimentos em programação web (html, css), linguagens de programação (C, C++, java, javascript e python), banco de dados e análise e manipulação de softwares, inclusive, do pacote Office. Ademais, possuo habilidades de comunicação e escrita, atenuadores para trabalhos em equipe, como também ânsia e facilidade de aprendizado. Afora, o inglês intermediário e a curiosidade pelo TI, dando ênfase ao software.
 <div align="center">
   <a href="https://github.com/marinagiacchero">
